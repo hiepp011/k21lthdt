@@ -1,4 +1,4 @@
-package people;
+package bt01;
 
 public class GiangVien {
 
